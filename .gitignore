@@ -1,3 +1,11 @@
 # IntelliJ
 .idea/
 *.iml
+
+# VisualStudio
+.classpath
+.project
+.settings/*
+
+# Maven
+target/
